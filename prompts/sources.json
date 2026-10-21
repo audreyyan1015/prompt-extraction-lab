@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A2",
+    "name": "Claude Sonnet 3.5",
+    "source_type": "官方公开",
+    "document_date": "2024-11-22",
+    "source_url": "https://platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-3-5",
+    "section": "November 22, 2024 — Text only",
+    "license": "官方文档页未标明允许全文再分发的开放许可证；选用短引文及中文概述",
+    "retrieval_date": "2026-10-21"
+  },
+  {
+    "id": "A3",
+    "name": "Microsoft Copilot",
+    "source_type": "社区存档",
+    "document_date": "2024-03-10",
+    "repo": "jujumilk3/leaked-system-prompts",
+    "commit_sha": "2bffdfe275e5dc4725b23e20c330e036ef438802",
+    "repo_commit_date": "2026-09-23T04:54:54Z",
+    "path": "microsoft-copilot_20240310.md",
+    "source_url": "https://github.com/jujumilk3/leaked-system-prompts/blob/2bffdfe275e5dc4725b23e20c330e036ef438802/microsoft-copilot_20240310.md",
+    "upstream_source": "https://old.reddit.com/r/bing/comments/1bapeh7/copilots_initial_prompt_as_of_march_2024/",
+    "license": "仓库根目录无许可证；选用短引文及中文概述",
+    "original_sha256": "c431482082273453aee5ca47dba814272a85c4c76a6343365298e3d959f8cc83",
+    "original_bytes": 6376,
+    "retrieval_date": "2026-10-21"
+  },
+  {
+    "id": "A4",
+    "name": "Perplexity GPT-4",
+    "source_type": "社区存档",
+    "document_date": "2024-03-11",
+    "repo": "jujumilk3/leaked-system-prompts",
+    "commit_sha": "2bffdfe275e5dc4725b23e20c330e036ef438802",
+    "repo_commit_date": "2026-09-23T04:54:54Z",
+    "path": "perplexity.ai_gpt4_20240311.md",
+    "source_url": "https://github.com/jujumilk3/leaked-system-prompts/blob/2bffdfe275e5dc4725b23e20c330e036ef438802/perplexity.ai_gpt4_20240311.md",
+    "upstream_source": "https://github.com/jujumilk3/leaked-system-prompts/issues/14#issuecomment-1988489006",
+    "license": "仓库根目录无许可证；选用短引文及中文概述",
+    "original_sha256": "fec5a8c0b5cf8444fac88c380eed80331eaa87aa4eb0d2cdca08b8f60f06f868",
+    "original_bytes": 1543,
+    "retrieval_date": "2026-10-21"
+  }
+]

@@ -1,0 +1,3 @@
+# Python >= 3.10
+# The scripts use the Python standard library; no pip packages are required.
+# Inference uses an external llama.cpp llama-server executable.

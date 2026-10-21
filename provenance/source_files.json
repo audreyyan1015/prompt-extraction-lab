@@ -1,0 +1,86 @@
+[
+  {
+    "original_name": "Qwen2.5-0.5B-Instruct-Q4_K_M.props.json",
+    "original_sha256": "4c06a8b66f0eed6f23e68a380232b3899bff3ba425084c38aeb5baecbbfeb717",
+    "repository_path": "data/2026-10-21/Qwen2.5-0.5B-Instruct-Q4_K_M.props.json",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "Qwen2.5-0.5B-Instruct-Q4_K_M.server.log",
+    "original_sha256": "ce6c8c9f763f0e234cb33ef0724b48e7a4803729df611f179b2256b79c8641d7",
+    "repository_path": null,
+    "status": "available_in_original_attachment"
+  },
+  {
+    "original_name": "README.txt",
+    "original_sha256": "61554cf445b820307500b7b1875ac6ecef1fbbfd60b7c4d2588981d1d8184f2b",
+    "repository_path": null,
+    "status": "available_in_original_attachment"
+  },
+  {
+    "original_name": "SHA256SUMS.txt",
+    "original_sha256": "0c4fa6c38957888c4d197eb636fc96a34fb3b4073d33d42dac21139534985921",
+    "repository_path": "provenance/original_SHA256SUMS.txt",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "SmolLM2-360M-Instruct-Q8_0.props.json",
+    "original_sha256": "3b4a26ea0fbab04edd89953395d5b24af0a9827264aa03574f62d72a6e2922a9",
+    "repository_path": "data/2026-10-21/SmolLM2-360M-Instruct-Q8_0.props.json",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "SmolLM2-360M-Instruct-Q8_0.server.log",
+    "original_sha256": "d47b906ba3289e863ed2af427f640c7f6d1787a6f1b6a9b6466f2347048b3214",
+    "repository_path": null,
+    "status": "available_in_original_attachment"
+  },
+  {
+    "original_name": "cases.json",
+    "original_sha256": "5c8e351d98af1f39e37315953640c6d1207b601e0b1d4eb6466169d101517e49",
+    "repository_path": "data/2026-10-21/cases.json",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "download_manifest.json",
+    "original_sha256": "5c8b3f9ba51a6c8651d4b759921700d49f82ccae5a53ccd870c99103f2c7b060",
+    "repository_path": "data/2026-10-21/download_manifest.json",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "environment.json",
+    "original_sha256": "698723cb5922b16f2054e6552687d27873c61a24b7a17699e83b8e992c2fc707",
+    "repository_path": "data/2026-10-21/environment.json",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "results.jsonl",
+    "original_sha256": "8d1c2befa2ab15efb2e633d60dab60dda1a152a9634bd1945b1f6dde8dc0fcc1",
+    "repository_path": "data/2026-10-21/results.jsonl",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "run_lab.py",
+    "original_sha256": "4be4cc2a43f701bcc0e547b546708f609d481199ed1704960cf2699dbedde7c9",
+    "repository_path": "provenance/original_run_lab.py",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "summarize.py",
+    "original_sha256": "0dc66b4c04155131306c63b55258205ef6305aac55a9dc7043a459dc2dce61c6",
+    "repository_path": "provenance/original_summarize.py",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "summary.json",
+    "original_sha256": "2464b69de02708c416ee7c6ed899911de4e1be3ad7f2007bf055ea390a16f395",
+    "repository_path": "data/2026-10-21/summary.json",
+    "status": "retained_byte_for_byte"
+  },
+  {
+    "original_name": "资料来源.txt",
+    "original_sha256": "466ae41817d007576b5dd85949da9ae4325d871784416b9be54e07c239e0ac72",
+    "repository_path": "docs/sources.txt",
+    "status": "retained_byte_for_byte"
+  }
+]

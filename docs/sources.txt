@@ -1,0 +1,72 @@
+[1] jujumilk3. leaked-system-prompts[EB/OL].
+https://github.com/jujumilk3/leaked-system-prompts
+访问日期：2026-10-21
+
+[2] asgeirtj. system_prompts_leaks[EB/OL].
+https://github.com/asgeirtj/system_prompts_leaks
+访问日期：2026-10-21
+
+[3] elder-plinius. CL4R1T4S[EB/OL].
+https://github.com/elder-plinius/CL4R1T4S
+访问日期：2026-10-21
+
+[4] xAI. grok-prompts[EB/OL].
+https://github.com/xai-org/grok-prompts
+访问日期：2026-10-21
+
+[5] Anthropic. System prompts[EB/OL].
+https://platform.claude.com/docs/en/release-notes/system-prompts/overview
+访问日期：2026-10-21
+
+[6] Anthropic. Claude Sonnet 3.5 system prompts[EB/OL]. 历史条目2024-11-22.
+https://platform.claude.com/docs/en/release-notes/system-prompts/claude-sonnet-3-5
+访问日期：2026-10-21
+
+[7] xAI. ask_grok_system_prompt.j2[EB/OL].
+https://github.com/xai-org/grok-prompts/blob/main/ask_grok_system_prompt.j2
+访问日期：2026-10-21
+
+[8] jujumilk3. microsoft-copilot_20240310.md[EB/OL]. 文件标注日期2024-03-10.
+https://github.com/jujumilk3/leaked-system-prompts/blob/main/microsoft-copilot_20240310.md
+访问日期：2026-10-21
+
+[9] jujumilk3. perplexity.ai_gpt4_20240311.md[EB/OL]. 文件标注日期2024-03-11.
+https://github.com/jujumilk3/leaked-system-prompts/blob/main/perplexity.ai_gpt4_20240311.md
+访问日期：2026-10-21
+
+[10] ZHANG Y, CARLINI N, IPPOLITO D. Effective Prompt Extraction from Language Models[C/OL]. COLM, 2024. arXiv:2307.06865v3.
+https://arxiv.org/abs/2307.06865
+访问日期：2026-10-21
+
+[11] TOYER S, WATKINS O, MENDES E A, et al. Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game[EB/OL]. arXiv:2311.01011, 2023.
+https://tensortrust.ai/paper/
+访问日期：2026-10-21
+
+[12] WALLACE E, XIAO K, LEIKE R, et al. The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions[EB/OL]. arXiv:2404.13208, 2024.
+https://arxiv.org/abs/2404.13208
+访问日期：2026-10-21
+
+[13] OWASP. LLM01:2025 Prompt Injection[EB/OL].
+https://genai.owasp.org/llmrisk/llm01-prompt-injection/
+访问日期：2026-10-21
+
+[14] OWASP. LLM07:2025 System Prompt Leakage[EB/OL].
+https://genai.owasp.org/llmrisk/llm072025-system-prompt-leakage/
+访问日期：2026-10-21
+
+[15] Anthropic. Effective context engineering for AI agents[EB/OL]. 2025-09-29.
+https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+访问日期：2026-10-21
+
+[16] Qwen. Qwen2.5-0.5B-Instruct-GGUF[EB/OL].
+https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF
+访问日期：2026-10-21
+
+[17] HuggingFaceTB. SmolLM2-360M-Instruct-GGUF[EB/OL].
+https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF
+访问日期：2026-10-21
+
+[18] ZHANG Y, et al. prompt-extraction[EB/OL]. 论文配套代码与评估脚本.
+https://github.com/y0mingzhang/prompt-extraction
+访问日期：2026-10-21
+19. xAI. grok3_official0330_p1.j2. https://github.com/xai-org/grok-prompts/blob/a7c186f5ccac95875c0041aed60398f6ecb6d6c7/grok3_official0330_p1.j2

@@ -1,0 +1,29 @@
+{
+  "repo": "xai-org/grok-prompts",
+  "sha": "a7c186f5ccac95875c0041aed60398f6ecb6d6c7",
+  "commit_date": "2025-11-17T20:40:17Z",
+  "retrieval_date": "2026-10-21",
+  "files": [
+    {
+      "path": "grok3_official0330_p1.j2",
+      "source_url": "https://github.com/xai-org/grok-prompts/blob/a7c186f5ccac95875c0041aed60398f6ecb6d6c7/grok3_official0330_p1.j2",
+      "raw_url": "https://raw.githubusercontent.com/xai-org/grok-prompts/a7c186f5ccac95875c0041aed60398f6ecb6d6c7/grok3_official0330_p1.j2",
+      "sha256": "5460fd5e0141da424b66ebaf3752efbba988bb2b5d20add1cf06047a5576b2cb",
+      "bytes": 4636
+    },
+    {
+      "path": "LICENSE",
+      "source_url": "https://github.com/xai-org/grok-prompts/blob/a7c186f5ccac95875c0041aed60398f6ecb6d6c7/LICENSE",
+      "raw_url": "https://raw.githubusercontent.com/xai-org/grok-prompts/a7c186f5ccac95875c0041aed60398f6ecb6d6c7/LICENSE",
+      "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+      "bytes": 34523
+    },
+    {
+      "path": "ask_grok_system_prompt.j2",
+      "source_url": "https://github.com/xai-org/grok-prompts/blob/a7c186f5ccac95875c0041aed60398f6ecb6d6c7/ask_grok_system_prompt.j2",
+      "raw_url": "https://raw.githubusercontent.com/xai-org/grok-prompts/a7c186f5ccac95875c0041aed60398f6ecb6d6c7/ask_grok_system_prompt.j2",
+      "sha256": "14781725d53363927e99b699bfc736514a2040e84659cca2e9e94baef217aa86",
+      "bytes": 3036
+    }
+  ]
+}

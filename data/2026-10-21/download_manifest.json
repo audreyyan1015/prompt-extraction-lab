@@ -1,0 +1,20 @@
+[
+  {
+    "filename": "llama.tar.gz",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11769/llama-b11769-bin-ubuntu-x64.tar.gz",
+    "size": 22235665,
+    "sha256": "ef8d547804608d03d33d4dc1154b3531430eda14a84bb6e3e946614eb87ff408"
+  },
+  {
+    "filename": "qwen.gguf",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/resolve/9217f5db79a29953eb74d5343926648285ec7e67/qwen2.5-0.5b-instruct-q4_k_m.gguf",
+    "size": 491400032,
+    "sha256": "74a4da8c9fdbcd15bd1f6d01d621410d31c6fc00986f5eb687824e7b93d7a9db"
+  },
+  {
+    "filename": "smollm.gguf",
+    "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct-GGUF/resolve/593b5a2e04c8f3e4ee880263f93e0bd2901ad47f/smollm2-360m-instruct-q8_0.gguf",
+    "size": 386404992,
+    "sha256": "48ab3034d0dd401fbc721eb1df3217902fee7dab9078992d66431f09b7750201"
+  }
+]
